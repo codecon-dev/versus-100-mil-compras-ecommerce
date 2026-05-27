@@ -1,1 +1,0 @@
-# versus-100-mil-compras-ecommerce

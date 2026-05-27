@@ -1,0 +1,14 @@
+{
+  "name": "leitor-de-csv",
+  "version": "1.0.0",
+  "description": "API de análise do dataset de e-commerce (Olist)",
+  "main": "apileitor.js",
+  "scripts": {
+    "start": "node apileitor.js"
+  },
+  "dependencies": {
+    "csv-parser": "^1.12.1",
+    "express": "^5.2.1",
+    "neat-csv": "^1.1.0"
+  }
+}
